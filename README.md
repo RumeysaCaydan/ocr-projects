@@ -1,8 +1,8 @@
-# OCR Projects Portfolio 🚀
+# OCR Projects Portfolio 
 
 This repository documents my journey in mastering **Optical Character Recognition (OCR)** technologies using Python. It includes practical implementations ranging from basic image-to-text conversion to automated document parsing using Computer Vision techniques.
 
-## 🛠 Tech Stack
+##  Tech Stack
 * **Language:** Python 3.x
 * **OCR Engine:** Tesseract-OCR v5.0
 * **Libraries:** * `pytesseract` (OCR Wrapper)
