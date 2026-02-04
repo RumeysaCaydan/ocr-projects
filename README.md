@@ -1,4 +1,4 @@
-# OCR Projects Portfolio 
+# OCR Projects  
 
 This repository documents my journey in mastering **Optical Character Recognition (OCR)** technologies using Python. It includes practical implementations ranging from basic image-to-text conversion to automated document parsing using Computer Vision techniques.
 
@@ -21,8 +21,7 @@ A tool to parse shopping receipts or invoices to extract financial data.
 * **Features:** Automatically identifies the **Date** and **Total Amount**.
 * **Techniques:** cv2.threshold (Binary Thresholding) to handle low-quality/faded receipt images.
 
-### 3. Basic OCR
-Foundational scripts to test Tesseract engine configuration and basic image-to-text conversion.
+
 
 ##  Installation & Usage
 
