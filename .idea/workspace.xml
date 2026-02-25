@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd10a531-af22-4186-acf8-b99da71a4584" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ocr-project1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deneme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id_card_readerr/01_ID_Card_Reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id_card_readerr/id_sample.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receipt-ocr/input_image/fis_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receipt-ocr/input_image/fis_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receipt-ocr/input_image/fis_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receipt-ocr/input_image/fis_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receipt-ocr/input_image/fis_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receipt-ocr/input_image/fis_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receipt-ocr/receipt-ocr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/try.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deneme.png" beforeDir="false" afterPath="$PROJECT_DIR$/try/deneme.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +32,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RumeysaCaydan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RumeysaCaydan/ocr-projects.git&quot;,
+    &quot;accountId&quot;: &quot;35ee7e83-3fa7-4e69-a8b9-47771d84beb3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="39A2znrkFK8nSeqG1U2qLEnR1od" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,26 +56,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.01_ID_Card_Reader (1).executor": "Run",
+    "Python.invoice_parser.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.receipt-ocr.executor": "Run",
+    "Python.try.executor": "Run",
     "Python.trying.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/KIRIKHAN BİLGİSAYAR/PycharmProjects/ocr-project1/id_card_readerr"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/KIRIKHAN BİLGİSAYAR/PycharmProjects/ocr-project1/receipt-ocr/input_image"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\ocr-project1\receipt-ocr\input_image" />
+      <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\ocr-project1\02_Invoice_Scanner" />
       <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\ocr-project1\id_card_readerr" />
       <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\ocr-project1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\ocr-project1\try" />
       <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\ocr-project1\id_card_readerr" />
       <recent name="C:\Users\KIRIKHAN BİLGİSAYAR\PycharmProjects\ocr-project1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_ID_Card_Reader (1)">
+  <component name="RunManager" selected="Python.receipt-ocr">
     <configuration name="01_ID_Card_Reader (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ocr-project1" />
+      <module name="ocr-projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +103,7 @@
       <method v="2" />
     </configuration>
     <configuration name="01_ID_Card_Reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ocr-project1" />
+      <module name="ocr-projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,8 +124,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="invoice_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ocr-projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Invoice_Scanner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Invoice_Scanner/invoice_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="ocr-project1" />
+      <module name="ocr-projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,8 +168,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="receipt-ocr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ocr-projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/receipt-ocr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/receipt-ocr/receipt-ocr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ocr-projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.receipt-ocr" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.invoice_parser" />
         <item itemvalue="Python.01_ID_Card_Reader (1)" />
         <item itemvalue="Python.01_ID_Card_Reader" />
       </list>
@@ -152,6 +239,17 @@
       <updated>1770124819851</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
